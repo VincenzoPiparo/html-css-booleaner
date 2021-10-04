@@ -33,3 +33,29 @@
 .grey{
     color: #808080;
 }
+
+ul{
+    margin-left: 15px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.table{
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+
+.width{
+    width: 250px;
+    background-color: #20a9e5;
+}
+
+.td-color{
+    width: 250px;
+    background-color:#b1e5f2;
+    
+
+}
