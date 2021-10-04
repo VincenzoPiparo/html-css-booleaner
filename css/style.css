@@ -1,0 +1,35 @@
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.intestazione{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    height: 100px;
+    background-size: 20%;
+    background-position: inherit;
+}
+
+#logo{
+    width: 200px;
+    margin-top: 40px;
+}
+
+.container{
+    width: 99%;
+    margin: auto;
+    
+}
+
+.aqua{
+    color: #20a9e5;
+}
+
+.grey{
+    color: #808080;
+}
