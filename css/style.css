@@ -59,3 +59,25 @@ ul{
     
 
 }
+
+.light-grey{
+    color: #808080;
+}
+
+.image1{
+    background-image: url("../img/monitor.jpg");
+    width: 250px;
+    height: 250px;
+    
+}
+.dimension{
+    font-size: 25px;
+    color: white;+
+
+}
+
+.image2{
+    background-image: url("../img/graph.jpg");
+    width: 250px;
+    height: 250px;
+}
